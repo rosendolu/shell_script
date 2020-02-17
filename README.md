@@ -1,0 +1,2 @@
+# zsh tips
+ zsh 
