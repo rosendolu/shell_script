@@ -1,2 +1,1 @@
-# zsh tips
- zsh 
+## common useful shell scripts
