@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 echo "search .zshrc_alias file"
 
 if [[ -f ~/.zshrc_alias ]];
