@@ -42,4 +42,6 @@ fn_list
 echo "\
 Total png files $total_png_files \
 beforeSize: $((total_png_size_before/1024))KB \
-afterSize: $((total_png_size_after/1024))KB"
+afterSize: $((total_png_size_after/1024))KB \
+compressed $(((total_png_size_before - total_png_size_after) /1024))KB "
+

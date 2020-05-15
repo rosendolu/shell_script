@@ -12,3 +12,4 @@ while [ "$str" != "end" ]; do
     echo "start"
     str="end"
 done
+
